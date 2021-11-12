@@ -4,21 +4,10 @@
 #define bMAX 128
 #define bMIN 2
 
-/*su arduino:
 #define IR 8
 #define RED 9
 #define GREEN 10
 #define BLUE 6
-//#define RED2 9
-//#define GREEN2 10
-//#define BLUE2 6
-*/
-
-// Su NodeMCU
-#define IR 0
-#define RED 1
-#define GREEN 2
-#define BLUE 3
 //#define RED2 9
 //#define GREEN2 10
 //#define BLUE2 6

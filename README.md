@@ -1,2 +1,2 @@
 # led
-Arduino code to run more indipendent strips of led simultaneusly. Made for Elegoo Uno.
+Arduino code to run few indipendent strips of led simultaneusly. Made for Elegoo Uno.

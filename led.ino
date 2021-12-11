@@ -127,7 +127,8 @@ class LedStrip {
     analogWrite(_pinR, LOW);
     analogWrite(_pinG, LOW);
     analogWrite(_pinB, LOW);
-    _lastClicked += 100;
+    if (_lastClicked < 100)
+      _lastClicked += 100;
   }
 
   void turnOn() {
